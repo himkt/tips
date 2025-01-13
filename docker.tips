@@ -1,0 +1,1 @@
+* `docker context ls`: list of docker contexts (it shows a list of paths where docker.sock files are located)
